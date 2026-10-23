@@ -12,4 +12,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1211-queries-quality-and-percentage](https://github.com/dhruvvpradhan/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 <!---LeetCode Topics End-->

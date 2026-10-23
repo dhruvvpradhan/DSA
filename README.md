@@ -36,8 +36,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvvpradhan/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/dhruvvpradhan/DSA/tree/main/0086-partition-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvvpradhan/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/dhruvvpradhan/DSA/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/dhruvvpradhan/DSA/tree/main/0066-plus-one/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Bit Manipulation
@@ -17,4 +18,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvvpradhan/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dhruvvpradhan/DSA/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/dhruvvpradhan/DSA/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->

@@ -10,12 +10,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/dhruvvpradhan/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvvpradhan/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/dhruvvpradhan/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvvpradhan/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->

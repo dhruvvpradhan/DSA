@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/dhruvvpradhan/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvvpradhan/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Bit Manipulation
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
 | [2409-count-days-spent-together](https://github.com/dhruvvpradhan/DSA/tree/main/2409-count-days-spent-together/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/dhruvvpradhan/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvvpradhan/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +77,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvvpradhan/DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0066-plus-one](https://github.com/dhruvvpradhan/DSA/tree/main/0066-plus-one/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvvpradhan/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvvpradhan/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/dhruvvpradhan/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvvpradhan/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/dhruvvpradhan/DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvvpradhan/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvvpradhan/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/dhruvvpradhan/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhruvvpradhan/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvvpradhan/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 <!---LeetCode Topics End-->

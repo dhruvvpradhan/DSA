@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvvpradhan/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/dhruvvpradhan/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/dhruvvpradhan/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvvpradhan/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvvpradhan/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/dhruvvpradhan/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvvpradhan/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvvpradhan/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dhruvvpradhan/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvvpradhan/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/dhruvvpradhan/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -142,4 +143,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvvpradhan/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvvpradhan/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvvpradhan/DSA/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->

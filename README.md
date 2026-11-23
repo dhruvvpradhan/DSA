@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvvpradhan/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0067-add-binary](https://github.com/dhruvvpradhan/DSA/tree/main/0067-add-binary/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvvpradhan/DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dhruvvpradhan/DSA/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/dhruvvpradhan/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/dhruvvpradhan/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
